@@ -1,0 +1,17 @@
+.description {
+	margin: 20px;
+}
+.mainButton {
+	margin-top: 50px;
+	height: 150px;
+}
+.pas1 {
+	display: none;
+}
+#captcha {
+	margin: 30px 0 30px 30px ;	
+}
+ul {
+	padding: 0px;
+	margin: 0px;
+}
